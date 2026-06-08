@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://paceva.analyticszone.app/en/bibliography/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/bibliography/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/bibliography/"/>
+  </url>
+  <url>
+    <loc>https://paceva.analyticszone.app/en/contact/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://paceva.analyticszone.app/en/disclaimer/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/disclaimer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/disclaimer/"/>
+  </url>
+  <url>
+    <loc>https://paceva.analyticszone.app/en/faq/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/faq/"/>
+  </url>
+  <url>
+    <loc>https://paceva.analyticszone.app/en/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/"/>
+  </url>
+  <url>
+    <loc>https://paceva.analyticszone.app/en/privacy/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://paceva.analyticszone.app/en/terms/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paceva.analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://paceva.analyticszone.app/en/terms/"/>
+  </url>
+</urlset>
